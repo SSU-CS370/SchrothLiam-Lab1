@@ -41,10 +41,10 @@ def main():
     print("    0         0   ")
     print()
     print("         U")
-    print(" *               *")
-    print("  *            *")
-    print("    *        *")
     print("       *  *")
+    print("    *        *")
+    print("  *            *")
+    print(" *              *")
     
    
 
